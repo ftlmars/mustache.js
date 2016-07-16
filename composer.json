@@ -1,12 +1,7 @@
 {
     "name": "ftlmars/mustache.js",
     "license": "MIT",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "v2.2.1"
-        }
-    },
-    
+    "version":"v2.2.1",
     "authors": [
         {
             "name": "ftlmars",
