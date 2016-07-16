@@ -1,0 +1,11 @@
+{
+    "name": "ftlmars/mustache.js",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ftlmars",
+            "email": "semenihin.maksim@gmail.com"
+        }
+    ],
+    "require": {}
+}
